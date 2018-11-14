@@ -1,0 +1,11 @@
+{
+  "name": "discord_self_bot_pokemon",
+  "version": "1.0.0",
+  "description": "A simple bot that send ;pokemon every 3 hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "beamop",
+  "license": "ISC"
+}
